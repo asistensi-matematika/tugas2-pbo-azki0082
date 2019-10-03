@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
-*soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+*soal ini berbobot lebih daripada soal sebelah* 
+NAMA: Habibatul Azkiyah
 
-NRP: `isi nrp disini`
+NRP: 06111840000082
 
 
 ## DESKRIPSI SOAL
@@ -47,7 +47,9 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+![s1](https://user-images.githubusercontent.com/55963075/66144281-c1760000-e632-11e9-871e-8417bc9eedba.PNG)
+![s2](https://user-images.githubusercontent.com/55963075/66144302-caff6800-e632-11e9-81c8-fbe7cd61d994.PNG)
+![opsi](https://user-images.githubusercontent.com/55963075/66144319-d18ddf80-e632-11e9-9e61-5c9d6a5fe395.PNG)
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
